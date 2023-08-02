@@ -1,11 +1,11 @@
 import React from "react";
-import Header from "./components/header/header";
-import Hero from "./components/hero/hero";
+import Header from "./components/header/Header";
+// import Hero from "./components/hero/Hero";
 function App() {
   return (
   <>
    <Header/>
-   <Hero />
+   {/* <Hero /> */}
   </>
 
  
